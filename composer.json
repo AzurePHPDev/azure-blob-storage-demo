@@ -1,0 +1,10 @@
+{
+    "require": {
+        "microsoft/azure-storage-blob": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AzurePHP\\": "src/"
+        }
+    }
+}
